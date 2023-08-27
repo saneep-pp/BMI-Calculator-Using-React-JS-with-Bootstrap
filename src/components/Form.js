@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Form=({ getData })=> {
+const Form = ({ getData }) => {
   const [weight, setWeight] = useState("");
   const [height, setHeight] = useState("");
   const [alert, setAlert] = useState(false);
@@ -54,6 +54,6 @@ const Form=({ getData })=> {
       )}
     </div>
   );
-}
+};
 
 export default Form;
