@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-###OUTPUT
+### OUTPUT
 ![bmiCalculator](https://github.com/saneep-pp/BMI-Calculator-Using-React-JS-with-Bootstrap/assets/61908137/133b81f1-a926-4801-83f9-b9600cf51816)
 
